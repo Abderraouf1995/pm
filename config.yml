@@ -1,0 +1,3 @@
+DEBUG: true
+DATABASE_URL: postgresql://ipc_admin:sS5Uj1POQomB8PzIkM9YOi1FkljcTqdB@dpg-cg5e5aceoogsv96nk5ug-a.oregon-postgres.render.com/ipcdb
+
